@@ -1,0 +1,1 @@
+select * from student s inner join employees e  on s.id = e.id;

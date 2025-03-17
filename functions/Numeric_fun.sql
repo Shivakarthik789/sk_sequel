@@ -1,0 +1,1 @@
+select ascii('w');
