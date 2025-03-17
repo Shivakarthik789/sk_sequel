@@ -1,0 +1,1 @@
+select * from transcations  right join customers on transcations.customer_id = customers.customer_id;
